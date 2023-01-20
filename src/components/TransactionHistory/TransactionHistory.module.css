@@ -1,0 +1,38 @@
+.transactionHistory {
+  overflow: hidden;
+  margin: 0 auto 20px auto;
+  width: 480px;
+  background-color: transparent;
+  border-radius: 7px;
+  border-spacing: 1px;
+  box-shadow: 5px 5px 8px 4px #cbc7c7da;
+}
+
+.header {
+  background-color: rgb(10, 202, 212);
+  border-top-left-radius: 7px;
+}
+
+.tableRow:nth-child(odd) {
+  background-color: white;
+}
+
+.tableRow:nth-child(even) {
+  background-color: rgb(227, 227, 227);
+}
+
+th {
+  width: calc(100% / 3);
+  padding: 10px 0;
+  color: white;
+}
+
+td {
+  text-align: center;
+  padding: 10px 0;
+}
+
+td:first-child {
+  text-align: left;
+  padding-left: 45px;
+}

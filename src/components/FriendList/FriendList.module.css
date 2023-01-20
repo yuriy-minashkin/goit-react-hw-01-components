@@ -1,0 +1,35 @@
+.friendList {
+  margin: 0 auto 20px auto;
+  width: 480px;
+}
+
+.item {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  padding: 10px 30px;
+  background-color: white;
+  border-radius: 50px;
+  box-shadow: 5px 5px 8px 4px #cbc7c7da;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.status {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: red;
+  box-shadow: 3px 3px 5px 2px #cbc7c7da;
+}
+
+.avatar {
+  width: 80px;
+}
+
+.name {
+  font-size: 38px;
+  font-weight: 700;
+}
