@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yuriy-minashkin/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/yuriy-minashkin/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/yuriy-minashkin/goit-react-hw-01-components/static/css/main.49f1b4aa.css",
+    "main.js": "/yuriy-minashkin/goit-react-hw-01-components/static/js/main.57390299.js",
     "index.html": "/yuriy-minashkin/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/yuriy-minashkin/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/yuriy-minashkin/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.49f1b4aa.css.map": "/yuriy-minashkin/goit-react-hw-01-components/static/css/main.49f1b4aa.css.map",
+    "main.57390299.js.map": "/yuriy-minashkin/goit-react-hw-01-components/static/js/main.57390299.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.49f1b4aa.css",
+    "static/js/main.57390299.js"
   ]
 }
